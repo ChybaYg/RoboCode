@@ -1,0 +1,10 @@
+*.pyc
+*.directory
+*.eric4project
+*~
+*.e4p
+*.metadata
+*.project
+*.pydevproject
+*.idea
+*.spyproject

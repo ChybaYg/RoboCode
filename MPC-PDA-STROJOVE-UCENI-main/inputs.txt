@@ -1,0 +1,12 @@
+Sitting Duck - gun_to_turn, distance, angle
+Walls - gun_to_turn, distance, angle, remaining_to_wall, enemy_heading
+Crazy, Veloci Robot - gun_to_turn, distance, angle, remaining_to_wall, enemy_dx, enemy_dy, enemy_heading
+
+
+gun_to_turn: -1 ... 1
+distance: 0 ... 1
+angle: 0 ... 1 (angle between gun heading and enemy heading 0 to PI)
+remaining_to_wall: 0 ... 1 (space remaining to wall with current direction)
+enemy_dx: -1 ... 1
+enemy_dy: -1 ... 1
+enemy_heading: 0 ... 1 (enemy heading % 90)
