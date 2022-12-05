@@ -1,9 +1,0 @@
-.DS_Store
-.vscode
-bin
-venv
-
-config
-robots/robot.database
-
-__pycache__
